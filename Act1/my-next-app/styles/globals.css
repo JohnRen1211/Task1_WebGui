@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/globals.css */
+input:focus {
+  color: green; /* Change to the desired color */
+  /* Add any other styling you want for the focused state */
+}
+
+
+
+
